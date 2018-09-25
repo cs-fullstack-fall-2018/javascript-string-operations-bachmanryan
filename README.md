@@ -4,29 +4,30 @@ Look up the follwoing JavaScript String operations. Write in ONE sentence after 
 
 ```
 
-String.prototype.indexOf()
+String.prototype.indexOf()  A string representing the value to search for.
 
-String.prototype.lastIndexOf()
+String.prototype.lastIndexOf()  A string representing the value to search for. If searchValue is an empty string, then fromIndex is returned.
 
-String.prototype.padEnd()
+String.prototype.padEnd() Can pad the end of a partial string
 
-String.prototype.padStart()
+String.prototype.padStart() Can pad the very begining of a String
 
-String.prototype.slice()
+String.prototype.slice()  It returns a new string containing the extracted section of the string.
 
-String.prototype.split()
+String.prototype.split()  Splits a String object into an array of strings by separating the string into substrings
 
-String.prototype.substring()
+String.prototype.substring()  Returns the part of the string between the start and end indexes, or to the end of the String
 
-String.prototype.trim()
+String.prototype.trim() Removes whitespace from both ends of a string
 
-String.prototype.trimStart()
+String.prototype.trimStart() Removes whitespace from the beginning of a string
 
-String.prototype.trimLeft()
+String.prototype.trimLeft() Removes whitespace from the beginning of a string
 
-String.prototype.trimEnd()
+String.prototype.trimEnd()  Removes whitespace from the end of a string
 
-String.prototype.trimRight()
+String.prototype.trimRight()  Removes whitespace from the end of a string
+
 
 ```
 
